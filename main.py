@@ -26,5 +26,5 @@ e1.grid(row=0, column=1)
 b = Button(master, text="Check", command =Speed_test)
 b.grid(row=0, column=2, columnspan=2, padx=5, pady=5)
 
-print("Hkk")
+
 mainloop()
